@@ -19,3 +19,9 @@ Es un operador lógico que evalúa dos expresiones y devuelve true si ambas son 
 
 # or
 Es un operador lógico que evalúa dos expresiones y devuelve true si alguna de las dos es verdadera, y false si ambas son falsas.
+
+# query selector
+Es un método que permite seleccionar un elemento del DOM.
+
+# query selector all
+Es un método que permite seleccionar todos los elementos del DOM que cumplan con el selector que le pasemos.
