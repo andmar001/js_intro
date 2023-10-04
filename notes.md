@@ -13,3 +13,9 @@ Es un comportamiento de JavaScript que mueve las declaraciones al inicio del sco
 
 # Scope
 Es el alcance que va a tener una variable dentro del código.
+
+# and
+Es un operador lógico que evalúa dos expresiones y devuelve true si ambas son verdaderas, y false si alguna de ellas es falsa.
+
+# or
+Es un operador lógico que evalúa dos expresiones y devuelve true si alguna de las dos es verdadera, y false si ambas son falsas.
